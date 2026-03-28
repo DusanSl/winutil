@@ -274,6 +274,15 @@
         "winget": "calibre.calibre",
         "foss": true
     },
+    "capcut": {
+        "category": "Multimedia Tools",
+        "choco": "na",
+        "content": "CapCut",
+        "description": "CapCut is a free, all-in-one video editing solution that helps anyone create videos.",
+        "link": "https://www.capcut.com/",
+        "winget": "ByteDance.CapCut",
+        "foss": false
+    },
     "carnac": {
         "category": "Utilities",
         "choco": "carnac",
